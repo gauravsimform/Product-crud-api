@@ -1,0 +1,55 @@
+{
+  "hooks": {
+
+    "SessionStart": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -Command \"if (!(Test-Path 'logs')) { New-Item -ItemType Directory -Path 'logs' -Force | Out-Null }; $sid = if ($env:COPILOT_AGENT_SESSION_ID) { $env:COPILOT_AGENT_SESSION_ID } else { [guid]::NewGuid().ToString() }; $ts = Get-Date -Format 'yyyy-MM-dd HH:mm:ss'; \\\"[$ts] [SESSION-START] ID=$sid\\\" | Add-Content 'logs/session.log' -Encoding UTF8; Write-Host \\\"[SessionStart] Session $sid initialized.\\\"\""
+      },
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/session-start.ps1"
+      }
+    ],
+
+    "UserPromptSubmit": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/user-prompt-submitted.ps1"
+      }
+    ],
+
+    "PreToolUse": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/pre-tool-use.ps1"
+      }
+    ],
+
+    "PostToolUse": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/post-tool-use.ps1"
+      }
+    ],
+
+    "SubagentStop": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/subagent-stop.ps1"
+      }
+    ],
+
+    "Stop": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/agent-stop.ps1"
+      },
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -NonInteractive -File .github/hooks/scripts/session-end.ps1"
+      }
+    ]
+
+  }
+}
