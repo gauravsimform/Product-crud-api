@@ -43,6 +43,11 @@ namespace ProductCrudApi.Repositories
             _dbSet.Remove(entity);
         }
 
+        public async Task DeleteAllAsync()
+        {
+            _dbSet.RemoveRange(await _dbSet.ToListAsync());
+        }
+
         public async Task SaveChangesAsync()
         {
             await _context.SaveChangesAsync();

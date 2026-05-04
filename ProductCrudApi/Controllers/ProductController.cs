@@ -79,5 +79,15 @@ namespace ProductCrudApi.Controllers
                 return NotFound();
             return NoContent();
         }
+
+        /// <summary>
+        /// Delete all products.
+        /// </summary>
+        [HttpDelete]
+        public async Task<IActionResult> DeleteAll()
+        {
+            await _productService.DeleteAllProductsAsync();
+            return NoContent();
+        }
     }
 }

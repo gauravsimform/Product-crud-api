@@ -14,5 +14,6 @@ namespace ProductCrudApi.Services
         Task<ProductReadDto> CreateProductAsync(ProductCreateDto dto);
         Task<bool> UpdateProductAsync(int id, ProductUpdateDto dto);
         Task<bool> DeleteProductAsync(int id);
+        Task DeleteAllProductsAsync();
     }
 }

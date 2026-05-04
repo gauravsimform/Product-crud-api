@@ -63,5 +63,11 @@ namespace ProductCrudApi.Services
             await _productRepository.SaveChangesAsync();
             return true;
         }
+
+        public async Task DeleteAllProductsAsync()
+        {
+            await _productRepository.DeleteAllAsync();
+            await _productRepository.SaveChangesAsync();
+        }
     }
 }
