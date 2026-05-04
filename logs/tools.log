@@ -134,3 +134,422 @@
 [2026-05-04 16:16:45] [INFO] ALLOWED: unknown-tool
 [2026-05-04 16:17:06] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-161706
   output: {}
+[2026-05-04 16:22:00] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162200
+[2026-05-04 16:22:01] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:01] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162201
+  output: {}
+[2026-05-04 16:22:04] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162204
+[2026-05-04 16:22:04] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:04] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162204
+  output: {}
+[2026-05-04 16:22:07] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162207
+[2026-05-04 16:22:07] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162207
+[2026-05-04 16:22:08] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:08] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:08] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162208
+  output: {}
+[2026-05-04 16:22:08] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162208
+  output: {}
+[2026-05-04 16:22:12] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162212
+[2026-05-04 16:22:12] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:12] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:13] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162213
+  output: {}
+[2026-05-04 16:22:13] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162213
+  output: {}
+[2026-05-04 16:22:20] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162220
+[2026-05-04 16:22:20] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162220
+[2026-05-04 16:22:20] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162220
+[2026-05-04 16:22:20] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162220
+[2026-05-04 16:22:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:22:21] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162221
+  output: {}
+[2026-05-04 16:22:21] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162221
+  output: {}
+[2026-05-04 16:22:21] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162221
+  output: {}
+[2026-05-04 16:22:21] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162221
+  output: {}
+[2026-05-04 16:22:21] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162221
+  output: {}
+[2026-05-04 16:26:42] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-162642
+[2026-05-04 16:26:42] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:26:45] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-162645
+  output: {}
+[2026-05-04 16:33:07] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163307
+[2026-05-04 16:33:07] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163307
+[2026-05-04 16:33:07] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:33:07] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:33:08] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163308
+  output: {}
+[2026-05-04 16:33:08] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163308
+  output: {}
+[2026-05-04 16:33:14] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163314
+[2026-05-04 16:33:14] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:34:09] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163409
+  output: {}
+[2026-05-04 16:35:35] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163535
+[2026-05-04 16:35:35] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163535
+[2026-05-04 16:35:35] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:35:35] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:35:36] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163536
+  output: {}
+[2026-05-04 16:35:36] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163536
+  output: {}
+[2026-05-04 16:35:43] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163543
+[2026-05-04 16:35:43] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:35:44] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163544
+  output: {}
+[2026-05-04 16:35:47] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163547
+[2026-05-04 16:35:47] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:35:48] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163548
+  output: {}
+[2026-05-04 16:35:52] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163552
+[2026-05-04 16:35:52] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:36:00] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163600
+  output: {}
+[2026-05-04 16:36:04] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163604
+[2026-05-04 16:36:05] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:36:13] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163613
+  output: {}
+[2026-05-04 16:36:22] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163622
+[2026-05-04 16:36:22] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:36:22] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163622
+  output: {}
+[2026-05-04 16:37:54] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163754
+[2026-05-04 16:37:54] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:37:55] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163755
+  output: {}
+[2026-05-04 16:38:20] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163820
+[2026-05-04 16:38:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:38:27] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163827
+  output: {}
+[2026-05-04 16:38:30] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163830
+[2026-05-04 16:38:30] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:38:37] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163837
+  output: {}
+[2026-05-04 16:38:42] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163842
+[2026-05-04 16:38:42] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:39:07] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163907
+  output: {}
+[2026-05-04 16:39:11] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163911
+[2026-05-04 16:39:11] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:39:12] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163912
+  output: {}
+[2026-05-04 16:39:18] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-163918
+[2026-05-04 16:39:18] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:39:49] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-163949
+  output: {}
+[2026-05-04 16:41:18] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164118
+[2026-05-04 16:41:18] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:41:19] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164119
+  output: {}
+[2026-05-04 16:41:24] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164124
+[2026-05-04 16:41:24] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:41:49] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164149
+[2026-05-04 16:41:49] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:41:53] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164153
+  output: {}
+[2026-05-04 16:45:19] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164519
+[2026-05-04 16:45:19] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:45:23] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164523
+  output: {}
+[2026-05-04 16:46:11] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164611
+[2026-05-04 16:46:11] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:46:16] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164616
+  output: {}
+[2026-05-04 16:48:25] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164825
+[2026-05-04 16:48:25] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:48:26] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:48:27] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164827
+  output: {}
+[2026-05-04 16:48:27] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164827
+  output: {}
+[2026-05-04 16:48:31] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-164831
+[2026-05-04 16:48:31] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:49:05] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-164905
+  output: {}
+[2026-05-04 16:51:02] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165102
+[2026-05-04 16:51:02] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:51:03] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165103
+  output: {}
+[2026-05-04 16:52:40] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165240
+[2026-05-04 16:52:40] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:52:43] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165243
+  output: {}
+[2026-05-04 16:52:46] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165246
+[2026-05-04 16:52:46] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:52:51] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165251
+  output: {}
+[2026-05-04 16:56:28] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165628
+[2026-05-04 16:56:28] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:56:28] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165628
+  output: {}
+[2026-05-04 16:56:32] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165632
+[2026-05-04 16:56:32] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:56:33] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165633
+  output: {}
+[2026-05-04 16:56:37] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165637
+[2026-05-04 16:56:37] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:56:38] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165638
+  output: {}
+[2026-05-04 16:57:04] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-165704
+[2026-05-04 16:57:04] [INFO] ALLOWED: unknown-tool
+[2026-05-04 16:57:05] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-165705
+  output: {}
+[2026-05-04 17:03:59] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170359
+[2026-05-04 17:03:59] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170359
+[2026-05-04 17:03:59] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170359
+[2026-05-04 17:03:59] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:03:59] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:03:59] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:04:00] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170400
+  output: {}
+[2026-05-04 17:04:00] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170400
+  output: {}
+[2026-05-04 17:04:00] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170400
+  output: {}
+[2026-05-04 17:04:06] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170406
+[2026-05-04 17:04:06] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170406
+[2026-05-04 17:04:06] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:04:06] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:04:06] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:04:07] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170407
+  output: {}
+[2026-05-04 17:04:07] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170407
+  output: {}
+[2026-05-04 17:04:07] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170407
+  output: {}
+[2026-05-04 17:04:44] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170444
+[2026-05-04 17:04:44] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:04:52] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170452
+  output: {}
+[2026-05-04 17:04:55] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170455
+[2026-05-04 17:04:55] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:05:04] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170504
+  output: {}
+[2026-05-04 17:07:39] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170739
+[2026-05-04 17:07:39] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170739
+[2026-05-04 17:07:39] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170739
+[2026-05-04 17:07:39] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170739
+[2026-05-04 17:07:39] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:07:39] [DEBUG] Could not update session metadata: The process cannot access the file 'C:\Users\gaurav\Product-crud-api\logs\.session-meta.json' because it is being used by another process.
+[2026-05-04 17:07:39] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:07:40] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170740
+  output: {}
+[2026-05-04 17:07:40] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170740
+  output: {}
+[2026-05-04 17:07:40] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170740
+  output: {}
+[2026-05-04 17:07:40] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170740
+  output: {}
+[2026-05-04 17:07:54] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170754
+[2026-05-04 17:07:54] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170754
+[2026-05-04 17:07:54] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170754
+[2026-05-04 17:07:54] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:07:54] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:07:54] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:07:54] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170754
+  output: {}
+[2026-05-04 17:07:54] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170754
+  output: {}
+[2026-05-04 17:07:55] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170755
+  output: {}
+[2026-05-04 17:08:10] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170810
+[2026-05-04 17:08:10] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:08:11] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170811
+  output: {}
+[2026-05-04 17:08:17] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170817
+[2026-05-04 17:08:17] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:08:17] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170817
+  output: {}
+[2026-05-04 17:08:25] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170825
+[2026-05-04 17:08:25] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:08:54] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170854
+  output: {}
+[2026-05-04 17:08:58] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170858
+[2026-05-04 17:08:58] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:08:59] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170859
+  output: {}
+[2026-05-04 17:09:04] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170904
+[2026-05-04 17:09:04] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:09:12] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170912
+  output: {}
+[2026-05-04 17:09:16] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170916
+[2026-05-04 17:09:16] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:09:17] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170917
+  output: {}
+[2026-05-04 17:09:22] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170922
+[2026-05-04 17:09:23] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170923
+  output: {}
+[2026-05-04 17:09:29] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170929
+[2026-05-04 17:09:29] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170929
+[2026-05-04 17:09:29] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170929
+[2026-05-04 17:09:29] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:09:29] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:09:29] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:09:30] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170930
+  output: {}
+[2026-05-04 17:09:30] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170930
+  output: {}
+[2026-05-04 17:09:30] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170930
+  output: {}
+[2026-05-04 17:09:55] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-170955
+[2026-05-04 17:09:56] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-170956
+  output: {}
+[2026-05-04 17:10:01] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171001
+[2026-05-04 17:10:01] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:10:28] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171028
+  output: {}
+[2026-05-04 17:10:34] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171034
+[2026-05-04 17:10:34] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:10:34] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171034
+  output: {}
+[2026-05-04 17:10:39] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171039
+[2026-05-04 17:10:42] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171042
+  output: {}
+[2026-05-04 17:10:48] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171048
+[2026-05-04 17:10:48] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:10:51] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171051
+  output: {}
+[2026-05-04 17:10:56] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171056
+[2026-05-04 17:10:57] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:10:59] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171059
+  output: {}
+[2026-05-04 17:11:09] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171109
+[2026-05-04 17:11:09] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:11:17] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171117
+  output: {}
+[2026-05-04 17:11:24] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171124
+[2026-05-04 17:11:24] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:11:39] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171139
+  output: {}
+[2026-05-04 17:11:51] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171151
+[2026-05-04 17:11:51] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:11:52] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171152
+  output: {}
+[2026-05-04 17:12:11] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171211
+[2026-05-04 17:12:12] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171212
+  output: {}
+[2026-05-04 17:12:21] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171221
+[2026-05-04 17:12:21] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:12:25] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171225
+  output: {}
+[2026-05-04 17:12:29] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171229
+[2026-05-04 17:12:29] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:12:34] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171234
+  output: {}
+[2026-05-04 17:12:47] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171247
+[2026-05-04 17:12:47] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:12:50] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171250
+[2026-05-04 17:12:50] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171250
+  output: {}
+[2026-05-04 17:12:50] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:12:53] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171253
+[2026-05-04 17:12:53] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171253
+  output: {}
+[2026-05-04 17:12:53] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:12:59] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171259
+  output: {}
+[2026-05-04 17:13:05] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171305
+[2026-05-04 17:13:05] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:13:07] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171307
+  output: {}
+[2026-05-04 17:13:13] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171313
+[2026-05-04 17:13:13] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:13:14] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171314
+  output: {}
+[2026-05-04 17:13:17] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171317
+[2026-05-04 17:13:17] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:13:18] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171318
+  output: {}
+[2026-05-04 17:13:56] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171356
+[2026-05-04 17:13:56] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:13:58] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171358
+  output: {}
+[2026-05-04 17:17:57] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171757
+[2026-05-04 17:17:57] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:17:57] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171757
+  output: {}
+[2026-05-04 17:18:06] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-171806
+[2026-05-04 17:18:06] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:18:07] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-171807
+  output: {}
+[2026-05-04 17:20:56] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172056
+[2026-05-04 17:20:56] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:20:57] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172057
+  output: {}
+[2026-05-04 17:21:03] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172103
+[2026-05-04 17:21:04] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:21:05] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172105
+  output: {}
+[2026-05-04 17:23:00] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172300
+[2026-05-04 17:23:00] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:23:05] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172305
+  output: {}
+[2026-05-04 17:24:49] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172449
+[2026-05-04 17:24:49] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172449
+[2026-05-04 17:24:49] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:24:50] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172450
+  output: {}
+[2026-05-04 17:24:50] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172450
+  output: {}
+[2026-05-04 17:24:55] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172455
+[2026-05-04 17:24:55] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172455
+[2026-05-04 17:24:55] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:24:55] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:24:56] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172456
+  output: {}
+[2026-05-04 17:24:56] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172456
+  output: {}
+[2026-05-04 17:25:06] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172506
+[2026-05-04 17:25:06] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:25:13] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172513
+  output: {}
+[2026-05-04 17:25:27] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172527
+[2026-05-04 17:25:27] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:25:27] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:25:28] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172528
+  output: {}
+[2026-05-04 17:25:28] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172528
+  output: {}
+[2026-05-04 17:25:28] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172528
+[2026-05-04 17:25:28] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:01] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172601
+  output: {}
+[2026-05-04 17:26:05] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172605
+[2026-05-04 17:26:05] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:06] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172606
+  output: {}
+[2026-05-04 17:26:20] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172620
+[2026-05-04 17:26:20] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:21] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172621
+  output: {}
+[2026-05-04 17:26:25] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172625
+[2026-05-04 17:26:25] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:40] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172640
+  output: {}
+[2026-05-04 17:26:44] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172644
+[2026-05-04 17:26:44] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:45] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172645
+  output: {}
+[2026-05-04 17:26:50] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172650
+[2026-05-04 17:26:50] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172650
+[2026-05-04 17:26:50] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:50] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:51] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172651
+  output: {}
+[2026-05-04 17:26:51] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172651
+  output: {}
+[2026-05-04 17:26:55] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172655
+[2026-05-04 17:26:55] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:26:56] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172656
+  output: {}
+[2026-05-04 17:27:50] [PRE-TOOL] tool=unknown-tool params={} session=session-20260504-172750
+[2026-05-04 17:27:50] [INFO] ALLOWED: unknown-tool
+[2026-05-04 17:27:58] [POST-TOOL] tool=unknown-tool status=unknown elapsed=n/a session=session-20260504-172758
+  output: {}

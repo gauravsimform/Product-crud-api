@@ -1,0 +1,14 @@
+﻿
+=== Smoke Test Run @ 2026-05-04 17:26:39 ===
+  [PASS] GET /health -> HTTP 200
+  [PASS] GET /swagger/index.html -> HTTP 200
+  [PASS] GET /api/product -> HTTP 200
+  [PASS] POST /api/product (malformed) -> HTTP 400
+  Result: 4 passed, 0 failed
+
+=== Smoke Test Run @ 2026-05-04 17:28:48 ===
+  [PASS] GET /health -> HTTP 200
+  [PASS] GET /swagger/index.html -> HTTP 200
+  [PASS] GET /api/product -> HTTP 200
+  [PASS] POST /api/product (malformed) -> HTTP 400
+  Result: 4 passed, 0 failed

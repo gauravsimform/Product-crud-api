@@ -87,3 +87,361 @@ endpoint in controller
 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 [2026-05-04 16:15:34] [INFO] Prompt logged (session=session-20260504-161534, length=52 chars)
 [2026-05-04 16:15:34] [WARN] DANGEROUS OPERATION DETECTED in prompt! Matched pattern: 'delete\s+all'
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:21:55] [PROMPT] session=session-20260504-162155
+  review my code and tell me when session meta json generate
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:21:55] [INFO] Prompt logged (session=session-20260504-162155, length=58 chars)
+[2026-05-04 16:21:55] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:24:10] [PROMPT] session=session-20260504-162410
+  stop project
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:24:10] [INFO] Prompt logged (session=session-20260504-162410, length=12 chars)
+[2026-05-04 16:24:10] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:24:48] [PROMPT] session=session-20260504-162448
+  Stop-Process -Name "ProductCrudApi"
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:24:48] [INFO] Prompt logged (session=session-20260504-162448, length=35 chars)
+[2026-05-04 16:24:48] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:26:36] [PROMPT] session=session-20260504-162635
+  stop running project
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:26:36] [INFO] Prompt logged (session=session-20260504-162635, length=20 chars)
+[2026-05-04 16:26:36] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:33:00] [PROMPT] session=session-20260504-163259
+  delete all records from the products table
+this is my prompt
+to verify my hooks
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:33:00] [INFO] Prompt logged (session=session-20260504-163259, length=81 chars)
+[2026-05-04 16:33:00] [WARN] DANGEROUS OPERATION DETECTED in prompt! Matched pattern: 'delete\s+all'
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:35:30] [PROMPT] session=session-20260504-163530
+  create health endpoint for my api
+[2026-05-04 16:31:27] [ERROR] API did not become healthy within 30 seconds.
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:35:30] [INFO] Prompt logged (session=session-20260504-163530, length=110 chars)
+[2026-05-04 16:35:30] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:37:49] [PROMPT] session=session-20260504-163749
+  now how to access health endpoint
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:37:49] [INFO] Prompt logged (session=session-20260504-163749, length=33 chars)
+[2026-05-04 16:37:49] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:38:16] [PROMPT] session=session-20260504-163815
+  restart api
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:38:16] [INFO] Prompt logged (session=session-20260504-163815, length=11 chars)
+[2026-05-04 16:38:16] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:13] [PROMPT] session=session-20260504-164113
+  delete all records from the products table
+this is my prompt
+to verify my hooks
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:13] [INFO] Prompt logged (session=session-20260504-164113, length=81 chars)
+[2026-05-04 16:41:13] [WARN] DANGEROUS OPERATION DETECTED in prompt! Matched pattern: 'delete\s+all'
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:43] [PROMPT] session=session-20260504-164143
+  stop running project
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:43] [INFO] Prompt logged (session=session-20260504-164143, length=20 chars)
+[2026-05-04 16:41:43] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:53] [PROMPT] session=session-20260504-164153
+  [Terminal 704d549e-44f3-4ae7-b4f0-a7d234250d0c notification: command completed with exit code 1. Use send_to_terminal to send another command or kill_terminal to stop it.]
+Terminal output:
+PS C:\Users\gaurav\Product-crud-api> Stop-Process -Id 26140 -Force -ErrorAction SilentlyContinue ; dotnet run --project "c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj"
+Using launch settings from c:\Users\gaurav\Product-crud-api\ProductCrudApi\Properties\launchSettings.json...
+Building...
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Azure.Identity' 1.7.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Microsoft.IdentityModel.JsonWebTokens' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Azure.Identity' 1.7.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Microsoft.IdentityModel.JsonWebTokens' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+c:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+warn: Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer[8]
+      The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5002
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: https://localhost:5003
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: c:\Users\gaurav\Product-crud-api\ProductCrudApi
+warn: Microsoft.EntityFrameworkCore.Model.Validation[30000]
+      No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (38ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT 1
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT 1
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:53] [INFO] Prompt logged (session=session-20260504-164153, length=5069 chars)
+[2026-05-04 16:41:53] [INFO] Prompt contains keyword 'package' - noting for context.
+[2026-05-04 16:41:53] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:44:02] [PROMPT] session=session-20260504-164402
+  delete all records from the products table
+this is my prompt
+to verify my hooks
+
+you should not doing anything
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:44:02] [INFO] Prompt logged (session=session-20260504-164402, length=114 chars)
+[2026-05-04 16:44:02] [WARN] DANGEROUS OPERATION DETECTED in prompt! Matched pattern: 'delete\s+all'
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:44:36] [PROMPT] session=session-20260504-164436
+  delete all records from the products table
+this is my prompt
+to verify my hooks
+
+you should not doing anything
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:44:36] [INFO] Prompt logged (session=session-20260504-164436, length=114 chars)
+[2026-05-04 16:44:36] [WARN] DANGEROUS OPERATION DETECTED in prompt! Matched pattern: 'delete\s+all'
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:45:15] [PROMPT] session=session-20260504-164515
+  stop project running
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:45:15] [INFO] Prompt logged (session=session-20260504-164515, length=20 chars)
+[2026-05-04 16:45:15] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:46:05] [PROMPT] session=session-20260504-164605
+  stop running projct currently
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:46:05] [INFO] Prompt logged (session=session-20260504-164605, length=29 chars)
+[2026-05-04 16:46:05] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:48:18] [PROMPT] session=session-20260504-164818
+  API not reachable at https://localhost:5001. Attempting to start it...
+[2026-05-04 16:46:51] [INFO] API process started. Waiting for readiness...
+
+I'm opening it via -> https://localhost:5001/swagger/index.html
+
+and health 
+https://localhost:5001/health
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:48:18] [INFO] Prompt logged (session=session-20260504-164818, length=259 chars)
+[2026-05-04 16:48:18] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:50:58] [PROMPT] session=session-20260504-165058
+  stop project
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:50:58] [INFO] Prompt logged (session=session-20260504-165058, length=12 chars)
+[2026-05-04 16:50:58] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:51:52] [PROMPT] session=session-20260504-165152
+  delete all records from the products table
+this is my prompt
+to verify my hooks
+
+you should not doing anything
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:51:52] [INFO] Prompt logged (session=session-20260504-165152, length=114 chars)
+[2026-05-04 16:51:52] [WARN] DANGEROUS OPERATION DETECTED in prompt! Matched pattern: 'delete\s+all'
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:52:34] [PROMPT] session=session-20260504-165234
+  stop all running project
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:52:34] [INFO] Prompt logged (session=session-20260504-165234, length=24 chars)
+[2026-05-04 16:52:34] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:56:21] [PROMPT] session=session-20260504-165621
+  # ÔöÇÔöÇ STEP 3: Start API if not running ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+Write-HookInfo 'STEP 3/6 - Checking API health...' $LOG
+$apiRunning = Test-ApiHealth -BaseUrl $apiUrl -TimeoutSec 3
+
+
+I think you should need to update this code beacuse 
+my api base url -> https://localhost:5003/
+but health api -> https://localhost:5003/health
+and swagger -> https://localhost:5003/swagger/index.html
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:56:21] [INFO] Prompt logged (session=session-20260504-165621, length=492 chars)
+[2026-05-04 16:56:21] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:03:53] [PROMPT] session=session-20260504-170353
+  Review my code
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:03:53] [INFO] Prompt logged (session=session-20260504-170353, length=14 chars)
+[2026-05-04 17:03:53] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:04:38] [PROMPT] session=session-20260504-170438
+  stop all running project
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:04:38] [INFO] Prompt logged (session=session-20260504-170438, length=24 chars)
+[2026-05-04 17:04:38] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:07:19] [PROMPT] session=session-20260504-170719
+  [2026-05-04 17:05:39] [WARN] API not reachable at https://localhost:5003. Attempting to start it...
+[2026-05-04 17:05:39] [INFO] API process started. Waiting for readiness...
+[2026-05-04 17:05:39] [INFO] STEP 4/6 - Polling /health endpoint...
+[2026-05-04 17:05:41] [DEBUG]   Waiting for API... (2 / 30 s)
+[2026-05-04 17:05:43] [DEBUG]   Waiting for API... (4 / 30 s)
+[2026-05-04 17:05:45] [DEBUG]   Waiting for API... (6 / 30 s)
+[2026-05-04 17:05:47] [DEBUG]   Waiting for API... (8 / 30 s)
+[2026-05-04 17:05:49] [DEBUG]   Waiting for API... (10 / 30 s)
+[2026-05-04 17:05:51] [DEBUG]   Waiting for API... (12 / 30 s)
+[2026-05-04 17:05:53] [DEBUG]   Waiting for API... (14 / 30 s)
+[2026-05-04 17:05:55] [DEBUG]   Waiting for API... (16 / 30 s)
+[2026-05-04 17:05:57] [DEBUG]   Waiting for API... (18 / 30 s)
+[2026-05-04 17:05:59] [DEBUG]   Waiting for API... (20 / 30 s)
+[2026-05-04 17:06:01] [DEBUG]   Waiting for API... (22 / 30 s)
+[2026-05-04 17:06:03] [DEBUG]   Waiting for API... (24 / 30 s)
+[2026-05-04 17:06:05] [DEBUG]   Waiting for API... (26 / 30 s)
+[2026-05-04 17:06:07] [DEBUG]   Waiting for API... (28 / 30 s)
+[2026-05-04 17:06:09] [DEBUG]   Waiting for API... (30 / 30 s)
+[2026-05-04 17:06:09] [ERROR] API did not become healthy within 30 seconds.
+
+
+When testing my hooks
+why session start hooks
+not able to reach api
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:07:19] [INFO] Prompt logged (session=session-20260504-170719, length=1352 chars)
+[2026-05-04 17:07:19] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:13:46] [PROMPT] session=session-20260504-171346
+  Get-Process | Where-Object { $_.Name -match "dotnet|ProductCrudApi" } | Stop-Process -Force ; Write-Host "All project processes stopped."
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:13:46] [INFO] Prompt logged (session=session-20260504-171346, length=137 chars)
+[2026-05-04 17:13:46] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:14:38] [PROMPT] session=session-20260504-171438
+  This is first proof
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:14:38] [INFO] Prompt logged (session=session-20260504-171438, length=19 chars)
+[2026-05-04 17:14:39] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:15:30] [PROMPT] session=session-20260504-171530
+  WARNING: HookLog: could not write to 'logs/session.log': The process cannot access the file 
+'C:\Users\gaurav\Product-crud-api\logs\session.log' because it is being used by another process.
+
+why I'm getting this
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:15:30] [INFO] Prompt logged (session=session-20260504-171530, length=214 chars)
+[2026-05-04 17:15:30] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:16:26] [PROMPT] session=session-20260504-171626
+  this is first command
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:16:26] [INFO] Prompt logged (session=session-20260504-171626, length=21 chars)
+[2026-05-04 17:16:26] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:17:46] [PROMPT] session=session-20260504-171745
+  this is second command
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:17:46] [INFO] Prompt logged (session=session-20260504-171745, length=22 chars)
+[2026-05-04 17:17:46] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:19:34] [PROMPT] session=session-20260504-171934
+  this is 3rd command
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:19:34] [INFO] Prompt logged (session=session-20260504-171934, length=19 chars)
+[2026-05-04 17:19:34] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:20:52] [PROMPT] session=session-20260504-172052
+  why my start hook is stopping at 3rd point not going for 4/5/6 
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:20:52] [INFO] Prompt logged (session=session-20260504-172052, length=63 chars)
+[2026-05-04 17:20:52] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:22:21] [PROMPT] session=session-20260504-172221
+  WARNING: HookLog: could not write to 'logs/session.log': The process cannot access the file 
+'C:\Users\gaurav\Product-crud-api\logs\session.log' because it is being used by another process.
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:22:21] [INFO] Prompt logged (session=session-20260504-172221, length=190 chars)
+[2026-05-04 17:22:21] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:22:56] [PROMPT] session=session-20260504-172256
+  Remove-Item -Path 'logs/session.log' -Force -ErrorAction SilentlyContinue
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:22:56] [INFO] Prompt logged (session=session-20260504-172256, length=73 chars)
+[2026-05-04 17:22:56] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:23:39] [PROMPT] session=session-20260504-172339
+  Now this is fresh session I want to test hooks by sending this command
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:23:39] [INFO] Prompt logged (session=session-20260504-172339, length=70 chars)
+[2026-05-04 17:23:39] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:24:42] [PROMPT] session=session-20260504-172442
+  now not getting any error but
+session start ps is going till only 3
+05-04 17:23:36] [INFO] STEP 3/6 - Checking API health...
+[2026-05-04 17:23:51] [INFO] === sessionEnd BEGIN | session=session-20260504-172351 ===
+[2026-05-04 17:23:51] [INFO] Session duration: 00h 00m 18s
+
+not going till 4/5/6 to validate swagger and all
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:24:42] [INFO] Prompt logged (session=session-20260504-172442, length=327 chars)
+[2026-05-04 17:24:42] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:27:45] [PROMPT] session=session-20260504-172745
+  thanks It's working now 
+please stop running project so I can test from scratch 
+Get-Process | Where-Object { $_.Name -match "dotnet|ProductCrudApi" } | Stop-Process -Force ; Write-Host "All project processes stopped."
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:27:45] [INFO] Prompt logged (session=session-20260504-172745, length=220 chars)
+[2026-05-04 17:27:45] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:30:54] [PROMPT] session=session-20260504-173054
+  hi copilot
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:30:54] [INFO] Prompt logged (session=session-20260504-173054, length=10 chars)
+[2026-05-04 17:30:54] [INFO] Prompt scan complete. No destructive patterns found.

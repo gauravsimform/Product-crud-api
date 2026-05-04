@@ -169,3 +169,592 @@
      M logs/session.log
      M logs/tools.log
 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:22:34] [AGENT-STOP] turn=turn-162234 session=session-20260504-162234
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:24:15] [AGENT-STOP] turn=turn-162415 session=session-20260504-162415
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:24:56] [AGENT-STOP] turn=turn-162456 session=session-20260504-162456
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:26:48] [AGENT-STOP] turn=turn-162648 session=session-20260504-162648
+  Tool calls this session : 1
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:34:12] [AGENT-STOP] turn=turn-163412 session=session-20260504-163412
+  Tool calls this session : 2
+  Dangerous prompts seen  : 1
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:36:33] [AGENT-STOP] turn=turn-163633 session=session-20260504-163633
+  Tool calls this session : 6
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:38:00] [AGENT-STOP] turn=turn-163800 session=session-20260504-163800
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:39:53] [AGENT-STOP] turn=turn-163953 session=session-20260504-163953
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:57] [AGENT-STOP] turn=turn-164157 session=session-20260504-164157
+  Tool calls this session : 3
+  Dangerous prompts seen  : 1
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:41:59] [AGENT-STOP] turn=turn-164159 session=session-20260504-164159
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:44:06] [AGENT-STOP] turn=turn-164406 session=session-20260504-164406
+  Tool calls this session : 0
+  Dangerous prompts seen  : 1
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:44:41] [AGENT-STOP] turn=turn-164441 session=session-20260504-164441
+  Tool calls this session : 0
+  Dangerous prompts seen  : 1
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:45:27] [AGENT-STOP] turn=turn-164527 session=session-20260504-164527
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:46:19] [AGENT-STOP] turn=turn-164619 session=session-20260504-164619
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:49:11] [AGENT-STOP] turn=turn-164911 session=session-20260504-164911
+  Tool calls this session : 3
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:51:07] [AGENT-STOP] turn=turn-165107 session=session-20260504-165107
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:51:56] [AGENT-STOP] turn=turn-165156 session=session-20260504-165156
+  Tool calls this session : 0
+  Dangerous prompts seen  : 1
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:52:53] [AGENT-STOP] turn=turn-165253 session=session-20260504-165253
+  Tool calls this session : 2
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 16:57:10] [AGENT-STOP] turn=turn-165710 session=session-20260504-165710
+  Tool calls this session : 4
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:05:07] [AGENT-STOP] turn=turn-170507 session=session-20260504-170507
+  Tool calls this session : 5
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:13:39] [AGENT-STOP] turn=turn-171339 session=session-20260504-171339
+  Tool calls this session : 16
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:14:03] [AGENT-STOP] turn=turn-171403 session=session-20260504-171403
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:14:46] [AGENT-STOP] turn=turn-171446 session=session-20260504-171446
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:15:38] [AGENT-STOP] turn=turn-171538 session=session-20260504-171538
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:16:37] [AGENT-STOP] turn=turn-171637 session=session-20260504-171637
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:18:12] [AGENT-STOP] turn=turn-171812 session=session-20260504-171812
+  Tool calls this session : 2
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M .github/hooks/scripts/session-start.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:19:40] [AGENT-STOP] turn=turn-171940 session=session-20260504-171940
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:21:14] [AGENT-STOP] turn=turn-172114 session=session-20260504-172114
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:22:28] [AGENT-STOP] turn=turn-172228 session=session-20260504-172228
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:23:07] [AGENT-STOP] turn=turn-172307 session=session-20260504-172307
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     D logs/session.log
+     M logs/tools.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:23:51] [AGENT-STOP] turn=turn-172351 session=session-20260504-172351
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:27:03] [AGENT-STOP] turn=turn-172703 session=session-20260504-172703
+  Tool calls this session : 3
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+    ?? logs/smoke-tests.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:28:01] [AGENT-STOP] turn=turn-172801 session=session-20260504-172801
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/smoke-tests.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-04 17:31:00] [AGENT-STOP] turn=turn-173100 session=session-20260504-173100
+  Tool calls this session : 0
+  Dangerous prompts seen  : 0
+  Files modified (0):
+    (none)
+  Git working-tree changes:
+     M .github/hooks/scripts/common.ps1
+     M ProductCrudApi/ProductCrudApi.csproj
+     M ProductCrudApi/Program.cs
+     M ProductCrudApi/README.md
+     M logs/agent.log
+     M logs/api-startup.log
+     M logs/prompts.log
+     M logs/session.log
+     M logs/tools.log
+    ?? logs/.session-meta.json
+    ?? logs/smoke-tests.log
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€

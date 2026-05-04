@@ -14,8 +14,15 @@
 
 Set-StrictMode -Off   # relax - hook scripts run in varied environments
 
+# Make HTTPS localhost calls work in Windows PowerShell 5.1 where
+# -SkipCertificateCheck is not available on web cmdlets.
+if ($PSVersionTable.PSVersion.Major -lt 6) {
+    [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12
+    [System.Net.ServicePointManager]::ServerCertificateValidationCallback = { $true }
+}
+
 # ── Constants ─────────────────────────────────────────────────────────────────
-$script:API_BASE_URL    = 'https://localhost:5001'
+$script:API_BASE_URL    = 'https://localhost:5003'
 $script:LOGS_DIR        = 'logs'
 $script:LOG_DATE_FMT    = 'yyyy-MM-dd HH:mm:ss'
 
@@ -146,19 +153,77 @@ function Save-SessionMeta {
 #region API helpers
 # ─────────────────────────────────────────────────────────────────────────────
 
+function Get-HookHttpStatusCode {
+    param(
+        [Parameter(Mandatory)][string]$Uri,
+        [ValidateSet('GET','POST','PUT','PATCH','DELETE')]
+        [string]$Method = 'GET',
+        [int]$TimeoutSec = 5,
+        [string]$Body,
+        [string]$ContentType
+    )
+
+    if ($PSVersionTable.PSVersion.Major -lt 6) {
+        $curlArgs = @('-k', '-sS', '-o', 'NUL', '-w', '%{http_code}', '--max-time', "$TimeoutSec", '-X', $Method)
+        if ($ContentType) {
+            $curlArgs += @('-H', "Content-Type: $ContentType")
+        }
+        if ($Body) {
+            $curlArgs += @('--data-raw', $Body)
+        }
+        $curlArgs += $Uri
+
+        try {
+            $curlOutput = & curl.exe @curlArgs 2>$null
+            $curlExitCode = $LASTEXITCODE
+        } catch {
+            return 0
+        }
+
+        if ($curlExitCode -ne 0) {
+            return 0
+        }
+
+        $status = 0
+        [void][int]::TryParse(($curlOutput | Out-String).Trim(), [ref]$status)
+        return $status
+    }
+
+    try {
+        $params = @{
+            Uri                  = $Uri
+            Method               = $Method
+            TimeoutSec           = $TimeoutSec
+            SkipCertificateCheck = $true
+            ErrorAction          = 'Stop'
+        }
+        if ($Body) {
+            $params.Body = $Body
+            if ($ContentType) {
+                $params.ContentType = $ContentType
+            }
+        }
+
+        $resp = Invoke-WebRequest @params
+        return [int]$resp.StatusCode
+    } catch [System.Net.WebException] {
+        if ($_.Exception.Response) {
+            return [int]$_.Exception.Response.StatusCode
+        }
+        return 0
+    } catch {
+        return 0
+    }
+}
+
 function Test-ApiHealth {
     [OutputType([bool])]
     param(
         [string]$BaseUrl   = $script:API_BASE_URL,
         [int]   $TimeoutSec = 5
     )
-    try {
-        $null = Invoke-RestMethod -Uri "$BaseUrl/health" -Method GET `
-            -SkipCertificateCheck -TimeoutSec $TimeoutSec -ErrorAction Stop
-        return $true
-    } catch {
-        return $false
-    }
+    $BaseUrl = $BaseUrl.TrimEnd('/')
+    return ((Get-HookHttpStatusCode -Uri "$BaseUrl/health" -Method GET -TimeoutSec $TimeoutSec) -eq 200)
 }
 
 function Test-SwaggerAvailable {
@@ -167,13 +232,8 @@ function Test-SwaggerAvailable {
         [string]$BaseUrl    = $script:API_BASE_URL,
         [int]   $TimeoutSec = 5
     )
-    try {
-        $resp = Invoke-WebRequest -Uri "$BaseUrl/swagger/index.html" -Method GET `
-            -SkipCertificateCheck -TimeoutSec $TimeoutSec -ErrorAction Stop
-        return ($resp.StatusCode -eq 200)
-    } catch {
-        return $false
-    }
+    $BaseUrl = $BaseUrl.TrimEnd('/')
+    return ((Get-HookHttpStatusCode -Uri "$BaseUrl/swagger/index.html" -Method GET -TimeoutSec $TimeoutSec) -eq 200)
 }
 
 function Invoke-SmokeTests {
@@ -199,29 +259,12 @@ function Invoke-SmokeTests {
     Write-Host $header -ForegroundColor Magenta
 
     foreach ($t in $tests) {
-        $status = 0
-        try {
-            $params = @{
-                Uri                  = $t.Uri
-                Method               = $t.Method
-                SkipCertificateCheck = $true
-                TimeoutSec           = 10
-                ErrorAction          = 'Stop'
-            }
-            if ($t.Body) {
-                $params.Body        = $t.Body
-                $params.ContentType = 'application/json'
-            }
-            $resp   = Invoke-WebRequest @params
-            $status = [int]$resp.StatusCode
-        } catch [System.Net.WebException] {
-            # Capture HTTP 4xx/5xx
-            if ($_.Exception.Response) {
-                $status = [int]$_.Exception.Response.StatusCode
-            }
-        } catch {
-            $status = 0
-        }
+        $status = Get-HookHttpStatusCode `
+            -Uri $t.Uri `
+            -Method $t.Method `
+            -TimeoutSec 10 `
+            -Body $t.Body `
+            -ContentType 'application/json'
 
         if ($status -eq $t.ExpectedStatus) {
             $passed++

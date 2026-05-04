@@ -30,7 +30,7 @@ A clean architecture ASP.NET Core Web API for Product CRUD operations using .NET
      ```
      dotnet run
      ```
-   - The API will be available at `https://localhost:5001` (or as configured).
+   - The API will be available at `https://localhost:5003` (or as configured).
 
 ## Folder Structure
 ```
