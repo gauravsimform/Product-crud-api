@@ -9,31 +9,41 @@ using ProductCrudApi.Repositories;
 namespace ProductCrudApi.Services
 {
     /// <summary>
-    /// Service implementation for product business logic.
+    /// Service implementation containing the business logic for product operations.
+    /// Orchestrates data access via <see cref="IProductRepository"/> and maps between
+    /// domain entities and DTOs using AutoMapper.
     /// </summary>
     public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
         private readonly IMapper _mapper;
 
+        /// <summary>
+        /// Initialises a new instance of <see cref="ProductService"/>.
+        /// </summary>
+        /// <param name="productRepository">The product repository used for data access.</param>
+        /// <param name="mapper">The AutoMapper instance used for object mapping.</param>
         public ProductService(IProductRepository productRepository, IMapper mapper)
         {
             _productRepository = productRepository;
             _mapper = mapper;
         }
 
+        /// <inheritdoc/>
         public async Task<IEnumerable<ProductReadDto>> GetAllProductsAsync()
         {
             var products = await _productRepository.GetAllAsync();
             return _mapper.Map<IEnumerable<ProductReadDto>>(products);
         }
 
+        /// <inheritdoc/>
         public async Task<ProductReadDto> GetProductByIdAsync(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
             return product == null ? null : _mapper.Map<ProductReadDto>(product);
         }
 
+        /// <inheritdoc/>
         public async Task<ProductReadDto> CreateProductAsync(ProductCreateDto dto)
         {
             var product = _mapper.Map<Product>(dto);
@@ -43,6 +53,7 @@ namespace ProductCrudApi.Services
             return _mapper.Map<ProductReadDto>(product);
         }
 
+        /// <inheritdoc/>
         public async Task<bool> UpdateProductAsync(int id, ProductUpdateDto dto)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -54,6 +65,7 @@ namespace ProductCrudApi.Services
             return true;
         }
 
+        /// <inheritdoc/>
         public async Task<bool> DeleteProductAsync(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -64,6 +76,7 @@ namespace ProductCrudApi.Services
             return true;
         }
 
+        /// <inheritdoc/>
         public async Task DeleteAllProductsAsync()
         {
             await _productRepository.DeleteAllAsync();
