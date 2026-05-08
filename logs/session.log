@@ -510,3 +510,79 @@
 [2026-05-07 14:26:30] [INFO] STEP 6/6 - Running Product API smoke tests...
 [2026-05-07 14:26:30] [SUCCESS] All smoke tests passed.
 [2026-05-07 14:26:30] [INFO] === sessionStart END | session=session-20260507-142611 ===
+[2026-05-08 13:32:17] [INFO] === sessionStart BEGIN | session=session-20260508-133217 ===
+[2026-05-08 13:32:17] [INFO] STEP 1/6 - Building solution...
+[2026-05-08 13:32:29] [DEBUG]   build:   Determining projects to restore...
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Azure.Identity' 1.7.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Microsoft.IdentityModel.JsonWebTokens' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build:   All projects are up-to-date for restore.
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Azure.Identity' 1.7.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Microsoft.IdentityModel.JsonWebTokens' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductUpdateDto.cs(12,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductUpdateDto.cs(14,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductCreateDto.cs(12,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductCreateDto.cs(14,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductReadDto.cs(12,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\Repositories\GenericRepository.cs(28,20): warning CS8603: Possible null reference return. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\Services\ProductService.cs(34,20): warning CS8603: Possible null reference return. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build:   ProductCrudApi -> C:\Users\gaurav\Product-crud-api\ProductCrudApi\bin\Debug\net10.0\ProductCrudApi.dll
+[2026-05-08 13:32:29] [DEBUG]   build: 
+[2026-05-08 13:32:29] [DEBUG]   build: Build succeeded.
+[2026-05-08 13:32:29] [DEBUG]   build: 
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Microsoft.IdentityModel.JsonWebTokens' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Azure.Identity' 1.7.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1903: Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'Microsoft.IdentityModel.JsonWebTokens' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 6.24.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductUpdateDto.cs(12,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductUpdateDto.cs(14,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductCreateDto.cs(12,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductCreateDto.cs(14,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\Models\Product.cs(16,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\Models\Product.cs(18,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductReadDto.cs(11,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\DTOs\ProductReadDto.cs(12,23): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\Repositories\GenericRepository.cs(28,20): warning CS8603: Possible null reference return. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build: C:\Users\gaurav\Product-crud-api\ProductCrudApi\Services\ProductService.cs(34,20): warning CS8603: Possible null reference return. [C:\Users\gaurav\Product-crud-api\ProductCrudApi\ProductCrudApi.csproj]
+[2026-05-08 13:32:29] [DEBUG]   build:     24 Warning(s)
+[2026-05-08 13:32:29] [DEBUG]   build:     0 Error(s)
+[2026-05-08 13:32:29] [DEBUG]   build: 
+[2026-05-08 13:32:29] [DEBUG]   build: Time Elapsed 00:00:10.81
+[2026-05-08 13:32:29] [SUCCESS] Build succeeded.
+[2026-05-08 13:32:30] [INFO] STEP 2/6 - Running unit tests...
+[2026-05-08 13:32:30] [WARN] No test projects found. Skipping unit-test step.
+[2026-05-08 13:32:30] [INFO] STEP 3/6 - Checking API health...
+[2026-05-08 13:32:32] [WARN] API not reachable at https://localhost:5003. Attempting to start it...
+[2026-05-08 13:32:32] [INFO] API process started. Waiting for readiness...
+[2026-05-08 13:32:32] [INFO] STEP 4/6 - Polling /health endpoint...
+[2026-05-08 13:32:36] [DEBUG]   Waiting for API... (2 / 30 s)
+[2026-05-08 13:32:38] [SUCCESS] API is healthy at https://localhost:5003
+[2026-05-08 13:32:38] [INFO] STEP 5/6 - Validating Swagger endpoint...
+[2026-05-08 13:32:38] [SUCCESS] Swagger UI available at https://localhost:5003/swagger/index.html
+[2026-05-08 13:32:38] [INFO] STEP 6/6 - Running Product API smoke tests...
+[2026-05-08 13:38:13] [INFO] === sessionEnd BEGIN | session=session-20260508-133813 ===
+[2026-05-08 13:38:13] [INFO] Session duration: 00h 05m 56s
+[2026-05-08 13:38:13] [INFO] Files modified  : 
+[2026-05-08 13:38:13] [INFO] Tool calls      : 0
+[2026-05-08 13:38:13] [INFO] Errors occurred : 0
+[2026-05-08 13:38:13] [INFO] Dangerous prompts seen: 0
+[2026-05-08 13:38:13] [INFO] Cleaning up log files older than 7 days...
+[2026-05-08 13:38:13] [INFO] Cleanup complete. Removed 0 file(s).
+[2026-05-08 13:38:13] [INFO] Session metadata file removed.
+[2026-05-08 13:38:13] [INFO] === sessionEnd END | session=session-20260508-133813 ===

@@ -19,3 +19,6 @@
   [PASS] GET /api/product -> HTTP 200
   [PASS] POST /api/product (malformed) -> HTTP 400
   Result: 4 passed, 0 failed
+
+=== Smoke Test Run @ 2026-05-08 13:32:38 ===
+  [PASS] GET /health -> HTTP 200
