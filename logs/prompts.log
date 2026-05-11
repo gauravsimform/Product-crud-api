@@ -459,3 +459,11 @@ Get-Process | Where-Object { $_.Name -match "dotnet|ProductCrudApi" } | Stop-Pro
 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 [2026-05-08 13:43:52] [INFO] Prompt logged (session=session-20260508-134352, length=56 chars)
 [2026-05-08 13:43:52] [INFO] Prompt scan complete. No destructive patterns found.
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-11 14:49:29] [PROMPT] session=session-20260511-144929
+  Create a custom Agent Skill in .github/skills/ for your project. Define a skill that helps Copilot with a specific task in your domain (e.g., database migrations, API documentation generation). Include an instruction file and any supporting scripts.
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[2026-05-11 14:49:29] [INFO] Prompt logged (session=session-20260511-144929, length=249 chars)
+[2026-05-11 14:49:29] [INFO] Prompt contains keyword 'migration' - noting for context.
+[2026-05-11 14:49:29] [INFO] Prompt scan complete. No destructive patterns found.

@@ -11,9 +11,15 @@ info: Microsoft.Hosting.Lifetime[0]
       Content root path: C:\Users\gaurav\Product-crud-api\ProductCrudApi
 warn: Microsoft.EntityFrameworkCore.Model.Validation[30000]
       No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+fail: Microsoft.Extensions.Diagnostics.HealthChecks.DefaultHealthCheckService[103]
+      Health check AppDbContext with status Unhealthy completed after 573.6346ms with message '(null)'
 info: Microsoft.EntityFrameworkCore.Database.Command[20101]
-      Executed DbCommand (32ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      Executed DbCommand (25ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
       SELECT 1
 info: Microsoft.EntityFrameworkCore.Database.Command[20101]
       Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
       SELECT 1
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[Id], [p].[CreatedAt], [p].[Description], [p].[Name], [p].[Price], [p].[StockQuantity]
+      FROM [Products] AS [p]
